@@ -39,6 +39,6 @@ the order of StatsBar plot -> Equalizer/Volcano plot -> Box/Scatter plot.
 
 The first version of maplet-Shiny is a capstone project of Weill Cornell Medicine.
 
-- Team members: Jinfeng Lu, Xiang Zhu, Yifan Wu
+- Team members: Yifan Wu, Jinfeng Lu, Xiang Zhu
 
 - Instructors: Elisa Benedetti, Kelsey Chetnik, Jan Krumsiek, Mustafa Buyukozkan, Elizabeth Sweeney
